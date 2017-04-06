@@ -1,3 +1,0 @@
-This is first commit to dev
-
-I am updating in the feature
